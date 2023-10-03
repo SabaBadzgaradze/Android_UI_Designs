@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android UI Designs</string>
+    <string name="profile_screens">Profile Screens</string>
+    <string name="todo">TODO</string>
+    <string name="sign_up_screens">Sign Up Screens</string>
+    <string name="login_screens">Login Screens</string>
+    <string name="dashboard_screens">DashBoard Screens</string>
+</resources>
